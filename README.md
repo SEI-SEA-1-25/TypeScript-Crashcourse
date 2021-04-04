@@ -401,7 +401,7 @@ console.log(shout<BadMessage>('All is Well')); // Argument of type '"All is Well
 console.log(shout<GoodMessage>('There is a fresh pot of coffee in the kitchen'));
 ```
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) TS Config and Declaration Files
+# TS Config and Declaration Files
 
 ## tsconfig
 Our TypeScript Compiler offers many options for configuration and customization to fit your specific use case. 
