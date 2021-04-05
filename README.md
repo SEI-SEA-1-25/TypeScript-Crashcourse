@@ -37,7 +37,7 @@ ___
 * [Adding Typscript to Create React App](https://create-react-app.dev/docs/adding-typescript/)
 * Crashcoursey-style blog on [TypScript Type Notation](https://2ality.com/2018/04/type-notation-typescript.html)
 * [Rules of Type Inference](https://www.typescriptlang.org/docs/handbook/type-inference.html)
-* [Learn x in y where x is TypeScript](https://learnxinyminutes.com/docs/typescript/)
+* [Learn x in y minutes where x is TypeScript](https://learnxinyminutes.com/docs/typescript/)
 
 ## Other Media:
 
