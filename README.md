@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) TypeScript Crash Course
 
-this code along has been sponsered in part by [these gitbook notes](https://gawdiseattle.gitbook.io/wdi/16-react/adjacent-topics/01-intro)
+this crash course is sponsered in part by [these gitbook notes](https://gawdiseattle.gitbook.io/wdi/16-react/adjacent-topics/01-intro)
 
 ### Learning Objectives
 - Describe advantages and disadvantages to using TypeScript
