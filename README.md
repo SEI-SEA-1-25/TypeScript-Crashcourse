@@ -127,7 +127,7 @@ ___
 | `Any`       | oh my! you're telling me I don't actually have to plan ahead?
 | `void`      | used for functions that do not return a value
 | `null`      | `null`, yup
-
+| `Array`     | lets add primitive typings to arrays (syntax may vary!) 
 ___
 
 ### `string`
